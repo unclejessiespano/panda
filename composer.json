@@ -10,9 +10,9 @@
     "license": "MIT",
     "authors": [
         {
-            "name": ":author_name",
-            "email": ":author_email",
-            "homepage": ":author_website",
+            "name": "Kevin Ruiz",
+            "email": "kevinruiz@bigandbrown.com",
+            "homepage": "http://www.bigandbrown.com",
             "role": "Developer"
         }
     ],
