@@ -26,12 +26,12 @@
     },
     "autoload": {
         "psr-4": {
-            "bigandbrown\\panda\\": "src"
+            "Bigandbrown\\Panda\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "bigandbrown\\panda\\": "tests"
+            "Bigandbrown\\Panda\\": "tests"
         }
     },
     "scripts": {
